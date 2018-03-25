@@ -1,0 +1,2 @@
+# ConfInst
+Gestore immagini parlante
